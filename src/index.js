@@ -1,3 +1,9 @@
 module.exports = function solveSudoku(matrix) {
-  // your solution
+   for(let row = 0; row < 9; row++) {
+    for(let col = 0; col < 9; col++) {
+      if(matrix[row][col] === 0){
+
+      }
+    }
+   }
 }
